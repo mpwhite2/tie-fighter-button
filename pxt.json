@@ -1,5 +1,5 @@
 {
-    "name": "tie fighter button",
+    "name": "tie fighter acceleration",
     "description": "",
     "dependencies": {
         "core": "*",
